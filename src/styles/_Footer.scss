@@ -1,0 +1,13 @@
+@import "./variables";
+
+.footer {
+  position: fixed;
+  text-align: center;
+  padding: 10px 0;
+  background-color: $primary-color;
+  color: #33a868;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  font-size: 18px;
+}

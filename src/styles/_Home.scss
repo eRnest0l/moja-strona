@@ -1,0 +1,15 @@
+@import "./variables";
+
+.home {
+  background-color: $jasny-turkusowy;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  height: 65%;
+    p {
+    font-size: 28px;
+    justify-content: center;
+    padding: 35px;
+    }
+}
+  

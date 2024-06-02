@@ -1,0 +1,26 @@
+@import "./variables";
+
+.header {
+  background-color: $primary-color;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  height: 25%;
+
+  h1 {
+    font-size: 36px;
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    background-color: turquoise;
+
+    li {
+    margin: 0 15px;
+    }
+  }
+}
+  
